@@ -1,6 +1,6 @@
 # Stress-Detection-with-Facial-Emojis
 
-![project](https://github.com/ayoubkarwi/Stress-Detection-with-Facial-Emojis/assets/118276511/7b540d46-bd46-445c-860e-74f4bd431711)
+![project](https://github.com/ayoubkarwi/Stress-Detection-with-Facial-Emojis/assets/118276511/9e9ea232-405c-45fb-8b0c-8bf1a4c7995a)
 
 ***Installation Windows ![Windows](https://github.com/ayoubkarwi/Stress-Detection-with-Facial-Emojis/assets/118276511/663be432-bda6-4428-a40e-8d5b9a2fb20f)***
 

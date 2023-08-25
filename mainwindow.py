@@ -181,7 +181,6 @@ class Ui_MainWindow(object):
         self.label_2.setText(_translate("MainWindow", "Emoji stress Level"))
         self.einput.setToolTip(_translate("MainWindow", "<html><head/><body><p><br/></p></body></html>"))
         self.einput.setWhatsThis(_translate("MainWindow", "<html><head/><body><p><br/></p></body></html>"))
-        self.label_4.setText(_translate("MainWindow", "( you can input the unicode of the emoji )"))
         self.label_5.setText(_translate("MainWindow", "Description of the emoji"))
 
 

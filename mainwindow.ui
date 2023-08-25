@@ -43,7 +43,7 @@
    <widget class="QPushButton" name="donebtn">
     <property name="geometry">
      <rect>
-      <x>850</x>
+      <x>580</x>
       <y>80</y>
       <width>141</width>
       <height>41</height>
@@ -150,10 +150,10 @@ QPushButton:active {
    <widget class="QLineEdit" name="einput">
     <property name="geometry">
      <rect>
-      <x>730</x>
-      <y>70</y>
-      <width>101</width>
-      <height>61</height>
+      <x>300</x>
+      <y>80</y>
+      <width>261</width>
+      <height>41</height>
      </rect>
     </property>
     <property name="toolTip">
@@ -167,26 +167,6 @@ QPushButton:active {
     </property>
     <property name="text">
      <string/>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_4">
-    <property name="geometry">
-     <rect>
-      <x>290</x>
-      <y>80</y>
-      <width>441</width>
-      <height>41</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>12</pointsize>
-      <weight>75</weight>
-      <bold>true</bold>
-     </font>
-    </property>
-    <property name="text">
-     <string>( you can input the unicode of the emoji )</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_5">

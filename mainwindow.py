@@ -72,7 +72,7 @@ class Ui_MainWindow(object):
         self.label.setFont(font)
         self.label.setObjectName("label")
         self.donebtn = QtWidgets.QPushButton(self.centralwidget)
-        self.donebtn.setGeometry(QtCore.QRect(910, 80, 141, 41))
+        self.donebtn.setGeometry(QtCore.QRect(580, 80, 141, 41))
         self.donebtn.setStyleSheet("QPushButton {\n"
 "    box-shadow: 0px 10px 14px -7px #000000;\n"
 "    background:linear-gradient(to bottom, #112126 5%, #636363 100%);\n"
@@ -128,18 +128,15 @@ class Ui_MainWindow(object):
         self.label_3.setText("")
         self.label_3.setObjectName("label_3")
         self.einput = QtWidgets.QLineEdit(self.centralwidget)
-        self.einput.setGeometry(QtCore.QRect(740, 90, 161, 31))
+        self.einput.setGeometry(QtCore.QRect(300, 80, 261, 41))
         self.einput.setStyleSheet("background-color: rgb(255, 255, 255);")
         self.einput.setText("")
         self.einput.setObjectName("einput")
-        self.label_4 = QtWidgets.QLabel(self.centralwidget)
-        self.label_4.setGeometry(QtCore.QRect(290, 80, 441, 41))
         font = QtGui.QFont()
         font.setPointSize(12)
         font.setBold(True)
         font.setWeight(75)
-        self.label_4.setFont(font)
-        self.label_4.setObjectName("label_4")
+
         self.label_5 = QtWidgets.QLabel(self.centralwidget)
         self.label_5.setGeometry(QtCore.QRect(30, 240, 401, 51))
         font = QtGui.QFont()
@@ -181,7 +178,6 @@ class Ui_MainWindow(object):
         self.label_2.setText(_translate("MainWindow", "Emoji stress Level"))
         self.einput.setToolTip(_translate("MainWindow", "<html><head/><body><p><br/></p></body></html>"))
         self.einput.setWhatsThis(_translate("MainWindow", "<html><head/><body><p><br/></p></body></html>"))
-        self.label_4.setText(_translate("MainWindow", "( you can input the unicode of the emoji )"))
         self.label_5.setText(_translate("MainWindow", "Description of the emoji"))
 
 
